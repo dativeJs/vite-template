@@ -8,7 +8,7 @@
 ### use on your favourite editor
 
 ```bash
-npx degit Tobithedev/vite-template my-first-app
+npx degit dativeJs/vite-template my-first-app
 # then
 # install all the dependencies
 npm i
